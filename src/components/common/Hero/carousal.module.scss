@@ -1,0 +1,14 @@
+.carousal_slide{
+    width: 100%;
+    position: relative;
+    height: 60vh;
+    overflow: hidden;
+    display: none;
+    border-radius:0.7rem ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.active{
+    display: block;
+}

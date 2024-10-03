@@ -1,0 +1,9 @@
+.footer_linkes {
+    transition: padding-left 0.3s ease-in-out;
+  }
+  
+  .footer_linkes:hover {
+    padding-left: 0.8rem;
+    color: red; /* Remove the comma and add a semicolon */
+  }
+  
