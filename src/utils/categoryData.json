@@ -1,0 +1,63 @@
+[
+    {
+      "category_id": 1,
+      "categoryName": "Dairy, Bread & Eggs",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 2,
+      "categoryName": "Fruits & Vegetables",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 3,
+      "categoryName": "Snack & Munchies",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 4,
+      "categoryName": "Bakery & Biscuits",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 5,
+      "categoryName": "Instant Food",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 6,
+      "categoryName": "Tea, Coffee & Drinks",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 7,
+      "categoryName": "Cold Drinks & Juices",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 8,
+      "categoryName": "Chicken, Meat & Fish",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 9,
+      "categoryName": "Baby Care",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 10,
+      "categoryName": "Cleaning Essentials",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 11,
+      "categoryName": "Pet Care",
+      "image_url": "/images/dairy-bread-eggs.png"
+    },
+    {
+      "category_id": 12,
+      "categoryName": "Atta, Rice & Dal",
+      "image_url": "/images/dairy-bread-eggs.png"
+    }
+  ]
+  

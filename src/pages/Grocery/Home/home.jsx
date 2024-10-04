@@ -5,6 +5,8 @@ import bannerImg1 from "../../../images/ad-banner-1.jpg"; // Regular import for 
 import bannerImg2 from "../../../images/ad-banner-2.jpg";
 import bannerImg3 from "../../../images/ad-banner-3.jpg";
 import Banner from "../../../components/Grocery/Bannners/banner";
+import CategoryCards from "../../../components/Grocery/Cards/CategoryCards/categoryCards";
+import Category from "../../../components/Grocery/category/category";
 
 function Home() {
   const bannerData = [
@@ -55,6 +57,13 @@ summer today`,
             </div>
           );
         })}
+      </section>
+
+      <section className=" ">
+        <Category />
+      </section>
+
+      <section>
       </section>
     </div>
   );
