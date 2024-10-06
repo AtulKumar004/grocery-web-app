@@ -22,15 +22,15 @@ export default function Navbar() {
     },
   ];
   return (
-    <div className=" border">
-      <div className="grid grid-cols-8 gap-3 py-4 md:px-2  sm:px-4 px-3 container m-auto border border-red-500 items-center">
+    <div className=" border-b-[2px]">
+      <div className="grid grid-cols-8 gap-3 py-4 md:px-2  sm:px-4 px-3 container m-auto  items-center">
         <div className=" ">
           <img src={GroceryLogo} alt="grocery_logo" className="w-[200px]  " />
         </div>
         <div className=" col-start-2 col-span-3 ">
           <SearchInput place_holder="Type to search.." />
         </div>
-        <div className=" flex-1 col-start-5 col-span-3 flex items-center gap-4  border ">
+        <div className=" flex-1 col-start-5 col-span-3 flex items-center gap-4   ">
           <Link className="font-[600]" >Home</Link>
           <Link  className="font-[600]"  >Store </Link>
           <Link  className="font-[600]" >Products </Link>

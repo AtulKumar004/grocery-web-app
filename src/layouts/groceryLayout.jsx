@@ -6,7 +6,7 @@ export default function GroceryLayout({ children }) {
   return (
     <div>
       <Navbar />
-      <div className="container border border-red-600 m-auto min-h-[80vh]">{children}</div>
+      <div className="container  m-auto min-h-[15rem]">{children}</div>
       <Footer />
     </div>
   );

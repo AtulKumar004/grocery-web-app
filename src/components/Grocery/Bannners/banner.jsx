@@ -4,7 +4,7 @@ import bannerImg from "../../../images/stores-logo-2.svg";
 
 export default function Banner() {
   return (
-        <div className="w-full  border bg-[#f0f3f2] rounded-lg xl:px-8  px-4  sm:py-2 flex items-center xl:justify-between md:flex-row flex-col">
+        <div className="w-full   bg-[#f0f3f2] rounded-lg xl:px-8  px-4  sm:py-2 flex items-center xl:justify-between md:flex-row flex-col">
       <div className="flex md:flex-row flex-col  items-center gap-3">
         <div className="w-32 h-32">
           <img className="w-full h-full " src={bannerImg} alt="bannerImg" />
